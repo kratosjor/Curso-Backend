@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "John Connor",
+    "edad": 30,
+    "curso": "Node.js Avanzado"
+  },
+  {
+    "nombre": "Sarah Connor",
+    "edad": 45,
+    "curso": "Node.js Básico"
+  },
+  {
+    "nombre": "Kyle Reese",
+    "edad": 23,
+    "curso": "Node.js Intermedio"
+  }
+]
